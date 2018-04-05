@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfa4eec8-045b-484a-acbd-db9c92f5d755" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled2$bot.coverage" NAME="bot Coverage Results" MODIFIED="1522910155873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="96" column="43" lean-forward="false" selection-start-line="96" selection-start-column="43" selection-end-line="96" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1522902371187" expanded="true" signature="2316:2401" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="2445:2518" ph="SELECT AGECO... DIGIMONS" />
+                <marker date="1522902371187" expanded="true" signature="2595:2661" ph="SELECT AGE F... DIGIMONS" />
+                <marker date="1522902371187" expanded="true" signature="2905:2979" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="3085:3156" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="3346:3390" ph="SELECT NAME DIGIMONS" />
+                <marker date="1522902371187" expanded="true" signature="3546:3597" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="3701:3752" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="3845:3894" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="3987:4038" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="4274:4325" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="4430:4479" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="4572:4623" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="4717:4768" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="5010:5054" ph="SELECT CARE DIGIMONS" />
+                <marker date="1522902371187" expanded="true" signature="5147:5191" ph="SELECT NAME DIGIMONS" />
+                <marker date="1522902371187" expanded="true" signature="5462:5516" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="5609:5660" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="5803:5858" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="5951:6002" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="6287:6342" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="6435:6484" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="6577:6628" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="6721:6772" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="6916:6972" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="7065:7114" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="7207:7258" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="7351:7402" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="7773:7829" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="7773:7850" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="7895:7968" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="8014:8081" ph="SELECT LIFE DIGIMONS" />
+                <marker date="1522902371187" expanded="true" signature="8014:8099" ph="SELECT LIFE DIGIMONS" />
+                <marker date="1522902371187" expanded="true" signature="8020:8081" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="8180:8249" ph="SELECT HUNGE... DIGIMONS" />
+                <marker date="1522902371187" expanded="true" signature="8332:8398" ph="SELECT AGE F... DIGIMONS" />
+                <marker date="1522902371187" expanded="true" signature="8551:8603" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="8752:8778" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="8752:8779" ph="UPDATE DIGIM... " />
+                <marker date="1522902371187" expanded="true" signature="8752:8849" ph="UPDATE DIGIM... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="botamon_overhunger.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/digimon/botamon/botamon_overhunger.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dd.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dd.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reddit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cogs/reddit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="92" column="38" lean-forward="false" selection-start-line="92" selection-start-column="38" selection-end-line="92" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="digimon.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cogs/digimon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2158">
+              <caret line="300" column="18" lean-forward="false" selection-start-line="300" selection-start-column="18" selection-end-line="300" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <marker date="1522897955622" expanded="true" signature="1504:1533" ph="ALTER TABLE DIGIMONS... " />
+                <marker date="1522897955622" expanded="true" signature="1861:1906" ph="SELECT TYPE DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="2503:2553" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="2947:2974" ph="SELECT SERVE... DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="3062:3108" ph="SELECT TYPE DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="3087:3108" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="3318:3342" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="3318:3389" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="3752:3861" ph="INSERT INTO DIGIMONS... " />
+                <marker date="1522897955622" expanded="true" signature="4304:4344" ph="SELECT SERVE... DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="5393:5439" ph="SELECT NAME DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="6083:6129" ph="SELECT TYPE DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="6266:6325" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="6381:6416" ph="SELECT SERVE... DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="6936:7003" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="7158:7208" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="7306:7353" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="7451:7500" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="7598:7644" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="7742:7795" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="7893:7942" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="8155:8205" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="8693:8733" ph="SELECT SERVE... DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="9515:9561" ph="SELECT NAME DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="10186:10247" ph="SELECT SERVE... DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="10330:10376" ph="SELECT NAME DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="10611:10659" ph="SELECT HUNGE... DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="10995:11040" ph="SELECT AGE F... DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="11683:11729" ph="SELECT NAME DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="12438:12484" ph="SELECT NAME DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="12536:12584" ph="SELECT HUNGE... DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="12743:12789" ph="SELECT NAME DIGIMONS" />
+                <marker date="1522897955622" expanded="true" signature="12925:12976" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="13236:13285" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="13527:13586" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="13650:13699" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="13947:13967" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="13947:14004" ph="UPDATE DIGIM... " />
+                <marker date="1522897955622" expanded="true" signature="14086:14138" ph="UPDATE DIGIM... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="botamon_refuse.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/digimon/botamon/botamon_refuse.gif">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="koromon_stats.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/digimon/koromon/koromon_stats.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="economy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cogs/economy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Emperor.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ecard/Emperor.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userData.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userData.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="130" lean-forward="false" selection-start-line="0" selection-start-column="130" selection-end-line="0" selection-end-column="130" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vs</find>
+      <find>xx</find>
+      <find>done</find>
+      <find>type</find>
+      <find>s</find>
+      <find>97</find>
+      <find>table</find>
+      <find>71</find>
+      <find>prin</find>
+      <find>star</find>
+      <find>life</find>
+      <find>hunger</find>
+      <find>hunger+</find>
+      <find>age_</find>
+      <find>age_r</find>
+      <find>botamon</find>
+      <find>tabl</find>
+      <find>SET NAME</find>
+      <find>start</find>
+      <find>conn</find>
+      <find>update</find>
+      <find>Start</find>
+      <find>hatched</find>
+      <find>care</find>
+      <find>typ</find>
+      <find>age</find>
+      <find>cur</find>
+      <find>c</find>
+      <find>feed</find>
+      <find>sleep</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/linear_model/coordinate_descent.py" />
+        <option value="$PROJECT_DIR$/general.py" />
+        <option value="$PROJECT_DIR$/cogs/Ideas" />
+        <option value="$PROJECT_DIR$/cogs/general.py" />
+        <option value="$PROJECT_DIR$/cogs/reddit.py" />
+        <option value="$PROJECT_DIR$/userData.json" />
+        <option value="$PROJECT_DIR$/cogs/meme.py" />
+        <option value="$PROJECT_DIR$/cogs/economy.py" />
+        <option value="$PROJECT_DIR$/cogs/digimon.py" />
+        <option value="$PROJECT_DIR$/bot.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-467" />
+    <option name="y" value="64" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="cogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="digimon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="digimon" type="462c0819:PsiDirectoryNode" />
+              <item name="agumon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="digimon" type="462c0819:PsiDirectoryNode" />
+              <item name="betamon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="digimon" type="462c0819:PsiDirectoryNode" />
+              <item name="botamon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="digimon" type="462c0819:PsiDirectoryNode" />
+              <item name="dodomon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="digimon" type="462c0819:PsiDirectoryNode" />
+              <item name="dorimon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="digimon" type="462c0819:PsiDirectoryNode" />
+              <item name="dorumon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="digimon" type="462c0819:PsiDirectoryNode" />
+              <item name="koromon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="digimon" type="462c0819:PsiDirectoryNode" />
+              <item name="pichimon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="ecard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="egg_pics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UI" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\salamentic\PycharmProjects\untitled2\digimon\dorimon\" />
+      <recent name="C:\Users\salamentic\PycharmProjects\untitled2\digimon\dorumon\" />
+      <recent name="C:\Users\salamentic\PycharmProjects\untitled2\digimon\betamon\" />
+      <recent name="C:\Users\salamentic\PycharmProjects\untitled2\digimon\agumon" />
+      <recent name="C:\Users\salamentic\PycharmProjects\untitled2\digimon\koromon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\salamentic\PycharmProjects\untitled2\digimon\ryudamon" />
+      <recent name="C:\Users\salamentic\PycharmProjects\untitled2\UI" />
+      <recent name="C:\Users\salamentic\PycharmProjects\untitled2\digimon\botamon" />
+      <recent name="C:\Users\salamentic\PycharmProjects\untitled2" />
+      <recent name="C:\Users\salamentic\PycharmProjects\untitled2\cogs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.bot">
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\salamentic\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfa4eec8-045b-484a-acbd-db9c92f5d755" name="Default" comment="" />
+      <created>1519881441926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519881441926</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16224815" sideWeight="0.5630208" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16224815" sideWeight="0.43697917" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.48541668" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997879" sideWeight="0.48489583" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="111" column="23" lean-forward="false" selection-start-line="111" selection-start-column="15" selection-end-line="111" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1522902371187" expanded="true" signature="2316:2401" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="2445:2518" ph="SELECT AGECO... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="2595:2661" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="2905:2979" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3085:3156" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3346:3390" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="3546:3597" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3701:3752" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3845:3894" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3987:4038" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4274:4325" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4430:4479" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4572:4623" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4717:4768" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5010:5054" ph="SELECT CARE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="5147:5191" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="5462:5516" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5609:5660" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5803:5858" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5951:6002" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6287:6342" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6435:6484" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6577:6628" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6721:6772" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6916:6972" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7065:7114" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7207:7258" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7351:7402" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7773:7829" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7773:7850" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7895:7968" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8014:8081" ph="SELECT LIFE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8014:8099" ph="SELECT LIFE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8020:8081" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8180:8249" ph="SELECT HUNGE... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8332:8398" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8551:8603" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8778" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8779" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8849" ph="UPDATE DIGIM... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cogs/general.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/discord/ext/commands/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10761">
+          <caret line="633" column="0" lean-forward="false" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/asyncio/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/linear_model/coordinate_descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/discord/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/discord/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cogs/meme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1522902371187" expanded="true" signature="2316:2401" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="2445:2518" ph="SELECT AGECO... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="2595:2661" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="2905:2979" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3085:3156" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3346:3390" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="3546:3597" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3701:3752" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3845:3894" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3987:4038" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4274:4325" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4430:4479" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4572:4623" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4717:4768" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5010:5054" ph="SELECT CARE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="5147:5191" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="5462:5516" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5609:5660" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5803:5858" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5951:6002" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6287:6342" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6435:6484" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6577:6628" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6721:6772" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6916:6972" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7065:7114" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7207:7258" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7351:7402" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7773:7829" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7773:7850" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7895:7968" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8014:8081" ph="SELECT LIFE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8014:8099" ph="SELECT LIFE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8020:8081" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8180:8249" ph="SELECT HUNGE... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8332:8398" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8551:8603" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8778" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8779" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8849" ph="UPDATE DIGIM... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/discord/ext/commands/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/asyncio/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/linear_model/coordinate_descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/discord/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/discord/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1522902371187" expanded="true" signature="2316:2401" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="2445:2518" ph="SELECT AGECO... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="2595:2661" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="2905:2979" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3085:3156" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3346:3390" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="3546:3597" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3701:3752" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3845:3894" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3987:4038" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4274:4325" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4430:4479" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4572:4623" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4717:4768" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5010:5054" ph="SELECT CARE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="5147:5191" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="5462:5516" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5609:5660" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5803:5858" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5951:6002" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6287:6342" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6435:6484" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6577:6628" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6721:6772" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6916:6972" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7065:7114" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7207:7258" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7351:7402" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7773:7829" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7773:7850" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7895:7968" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8014:8081" ph="SELECT LIFE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8014:8099" ph="SELECT LIFE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8020:8081" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8180:8249" ph="SELECT HUNGE... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8332:8398" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8551:8603" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8778" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8779" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8849" ph="UPDATE DIGIM... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/asyncio/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/linear_model/coordinate_descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/discord/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/discord/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1522902371187" expanded="true" signature="2316:2401" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="2445:2518" ph="SELECT AGECO... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="2595:2661" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="2905:2979" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3085:3156" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3346:3390" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="3546:3597" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3701:3752" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3845:3894" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3987:4038" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4274:4325" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4430:4479" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4572:4623" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4717:4768" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5010:5054" ph="SELECT CARE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="5147:5191" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="5462:5516" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5609:5660" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5803:5858" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5951:6002" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6287:6342" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6435:6484" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6577:6628" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6721:6772" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6916:6972" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7065:7114" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7207:7258" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7351:7402" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7773:7829" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7773:7850" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7895:7968" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8014:8081" ph="SELECT LIFE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8014:8099" ph="SELECT LIFE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8020:8081" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8180:8249" ph="SELECT HUNGE... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8332:8398" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8551:8603" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8778" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8779" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8849" ph="UPDATE DIGIM... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/discord/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/discord/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/discord/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/asyncio/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/linear_model/coordinate_descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/discord/ext/commands/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10625">
+          <caret line="633" column="0" lean-forward="false" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cogs/Ideas">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egg_pics/pink.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egg_pics/digiegg red.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egg_pics/digiegg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egg_pics/green.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/discord/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digimon/botamon/botamon_refuse 2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digimon/botamon/botamon_refuse1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cogs/general.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drrr_template.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iss.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghostdriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cogs/meme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="137" lean-forward="false" selection-start-line="42" selection-start-column="137" selection-end-line="42" selection-end-column="137" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userData">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digimon/koromon/koromon_stats.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="130" lean-forward="false" selection-start-line="0" selection-start-column="130" selection-end-line="0" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cogs/economy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecard/Emperor.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digimon/botamon/botamon_refuse.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digimon/botamon/botamon_overhunger.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cogs/digimon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2158">
+          <caret line="300" column="18" lean-forward="false" selection-start-line="300" selection-start-column="18" selection-end-line="300" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1522897955622" expanded="true" signature="1504:1533" ph="ALTER TABLE DIGIMONS... " />
+            <marker date="1522897955622" expanded="true" signature="1861:1906" ph="SELECT TYPE DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="2503:2553" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="2947:2974" ph="SELECT SERVE... DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="3062:3108" ph="SELECT TYPE DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="3087:3108" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="3318:3342" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="3318:3389" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="3752:3861" ph="INSERT INTO DIGIMONS... " />
+            <marker date="1522897955622" expanded="true" signature="4304:4344" ph="SELECT SERVE... DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="5393:5439" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="6083:6129" ph="SELECT TYPE DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="6266:6325" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="6381:6416" ph="SELECT SERVE... DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="6936:7003" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="7158:7208" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="7306:7353" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="7451:7500" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="7598:7644" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="7742:7795" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="7893:7942" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="8155:8205" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="8693:8733" ph="SELECT SERVE... DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="9515:9561" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="10186:10247" ph="SELECT SERVE... DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="10330:10376" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="10611:10659" ph="SELECT HUNGE... DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="10995:11040" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="11683:11729" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="12438:12484" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="12536:12584" ph="SELECT HUNGE... DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="12743:12789" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522897955622" expanded="true" signature="12925:12976" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="13236:13285" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="13527:13586" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="13650:13699" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="13947:13967" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="13947:14004" ph="UPDATE DIGIM... " />
+            <marker date="1522897955622" expanded="true" signature="14086:14138" ph="UPDATE DIGIM... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cogs/reddit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="92" column="38" lean-forward="false" selection-start-line="92" selection-start-column="38" selection-end-line="92" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="96" column="43" lean-forward="false" selection-start-line="96" selection-start-column="43" selection-end-line="96" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1522902371187" expanded="true" signature="2316:2401" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="2445:2518" ph="SELECT AGECO... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="2595:2661" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="2905:2979" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3085:3156" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3346:3390" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="3546:3597" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3701:3752" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3845:3894" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="3987:4038" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4274:4325" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4430:4479" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4572:4623" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="4717:4768" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5010:5054" ph="SELECT CARE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="5147:5191" ph="SELECT NAME DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="5462:5516" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5609:5660" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5803:5858" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="5951:6002" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6287:6342" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6435:6484" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6577:6628" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6721:6772" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="6916:6972" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7065:7114" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7207:7258" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7351:7402" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7773:7829" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7773:7850" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="7895:7968" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8014:8081" ph="SELECT LIFE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8014:8099" ph="SELECT LIFE DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8020:8081" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8180:8249" ph="SELECT HUNGE... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8332:8398" ph="SELECT AGE F... DIGIMONS" />
+            <marker date="1522902371187" expanded="true" signature="8551:8603" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8778" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8779" ph="UPDATE DIGIM... " />
+            <marker date="1522902371187" expanded="true" signature="8752:8849" ph="UPDATE DIGIM... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
